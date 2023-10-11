@@ -36,3 +36,8 @@
 	</a>
 	<a href="mailto:gnl0201@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+</div>
+<div align=center>
+	<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HwiJungkim&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=HwiJungkim&show_icons=true">
