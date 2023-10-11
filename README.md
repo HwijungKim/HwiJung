@@ -14,3 +14,18 @@
  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/>
 	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
+</div>
+<br>
+<div align=center>
+	<p>🛠 Tools 🛠</p>
+ </div>
+<div align=center>
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white" />
+</div>
+<br>
+<div align=center>
+	<p>🎨 SNS & Portfolio 🎨</p>
